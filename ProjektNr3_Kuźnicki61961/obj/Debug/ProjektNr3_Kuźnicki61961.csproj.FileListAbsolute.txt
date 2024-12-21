@@ -1,0 +1,38 @@
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.exe.config
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.exe
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.pdb
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.AssemblyReference.cache
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.KokpitProjektuNr3.resources
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.LaboratoriumNr3.resources
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.Properties.Resources.resources
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.GenerateResource.cache
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.CoreCompileInputs.cache
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.exe
+F:\semestr 2\programowanie\projekt3\lab2\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.pdb
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.exe.config
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.exe
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.pdb
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.AssemblyReference.cache
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.KokpitProjektuNr3.resources
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.LaboratoriumNr3.resources
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.ProjektIndywidualnyNr3.resources
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.Properties.Resources.resources
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.GenerateResource.cache
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.CoreCompileInputs.cache
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.exe
+E:\Szkola\Semestr2\projekt3\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.pdb
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.KokpitProjektuNr3.resources
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.LaboratoriumNr3.resources
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.ProjektIndywidualnyNr3.resources
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.Properties.Resources.resources
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.exe
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\obj\Debug\ProjektNr3_Kuźnicki61961.pdb
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.exe.config
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.exe
+C:\Users\student\Desktop\ProjektNr3_Kuźnicki61961\bin\Debug\ProjektNr3_Kuźnicki61961.pdb
